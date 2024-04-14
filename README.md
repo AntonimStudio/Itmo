@@ -50,3 +50,6 @@ Visit [http://localhost:8000](http://localhost:3000) in your browser.
 LeLa is an open-source project and we welcome contributions from the community.
 
 If you'd like to contribute, please fork the repository and make changes as you'd like. Pull requests are warmly welcome.
+
+## DB
+![img.png](img.png)
