@@ -30,36 +30,18 @@ Here's what you need to be able to run LeLa:
 ### 1. Clone the repository
 
 ```shell
-git clone https://github.com/mfts/papermark.git
-cd papermark
+git clone https://github.com/AntonimStudio/Itmo.git
 ```
 
-### 2. Install npm dependencies
+### 2. Collect docker dependencies
 
 ```shell
+docker install
 npm install
+npm start
 ```
 
-### 3. Copy the environment variables to `.env` and change the values
-
-```shell
-cp .env.example .env
-```
-
-### 4. Initialize the database
-
-```shell
-npx prisma generate
-npx prisma migrate deploy
-```
-
-### 5. Run the dev server
-
-```shell
-npm run dev
-```
-
-### 6. Open the app in your browser
+### 3. Open the app in your browser
 
 Visit [http://localhost:8000](http://localhost:3000) in your browser.
 
