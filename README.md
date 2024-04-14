@@ -3,13 +3,6 @@
   <h3>DaPoCa inc.</h3>
 </div>
 
-## Features
-
-- **Shareable Links:** Share your document securely by sending a custom link
-- **Custom Branding:** Add a custom domain and your own branding
-- **Analytics:** Get insights via document tracking and soon page-by-page analytics
-- **Self-hosted, open-source:** Host it yourself and hack on it
-
 ## Tech Stack
 
 - Golang – Server
