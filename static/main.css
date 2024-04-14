@@ -1,0 +1,134 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v1_2 {
+  width: 210vh;
+  min-height: 150vh;
+  background: rgba(34,56,67,1);
+  opacity: 1;
+  position: relative;
+  top: -8px;
+  left: -8px;
+  overflow: hidden;
+}
+
+.v2_19 {
+  width: 727px;
+  height: 389px;
+  background: rgba(82,79,157,1);
+  opacity: 1;
+  position: absolute;
+  top: 597px;
+  left: 27px;
+  border-top-left-radius: 40px;
+  border-top-right-radius: 40px;
+  border-bottom-left-radius: 40px;
+  border-bottom-right-radius: 40px;
+  overflow: hidden;
+}
+.v14_25 {
+  width: 656px;
+  height: 456px;
+  background: url("images/v14_25.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 530px;
+  left: 790px;
+  overflow: hidden;
+}
+.v15_76 {
+  width: 500px;
+  height: 500px;
+  background: url("images/v15_76.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 76px;
+  left: 76px;
+  overflow: hidden;
+}
+.v15_77 {
+  width: 632px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 618px;
+  left: 66px;
+  font-family: Evolventa;
+  font-weight: Regular;
+  font-size: 32px;
+  opacity: 1;
+  text-align: left;
+}
+.v16_5 {
+  width: 630px;
+  height: 525px;
+  background: url("images/v16_5.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 127px;
+  left: 607px;
+  overflow: hidden;
+}
+.v14_41 {
+  width: 372px;
+  color: rgba(239,241,243,1);
+  position: absolute;
+  top: 197px;
+  left: 684px;
+  font-family: Paytone One;
+  font-weight: Regular;
+  font-size: 115px;
+  opacity: 1;
+  text-align: left;
+  rotate: 3.68deg;
+}
+.v18_29 {
+  width: 474px;
+  color: rgba(239,241,243,1);
+  position: absolute;
+  top: 310px;
+  left: 675px;
+  font-family: Paytone One;
+  font-weight: Regular;
+  font-size: 115px;
+  opacity: 1;
+  text-align: left;
+  rotate: 3.68deg;
+}
+.v18_30 {
+  width: 235px;
+  height: 104px;
+  background: url("images/v18_30.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 6px;
+  left: 1124px;
+  overflow: hidden;
+}
+.v14_10 {
+  width: 46px;
+  height: 46px;
+  background: url("images/v14_10.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 28px;
+  left: 1127px;
+  overflow: hidden;
+}

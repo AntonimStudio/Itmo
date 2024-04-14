@@ -1,0 +1,213 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v2_10 {
+  width: 100%;
+  height: 1089px;
+  background: rgba(34,56,67,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v20_58 {
+  width: 100%;
+  height: 100%;
+  background: url("images/v20_58.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 0.4;
+  position: absolute;
+  top: 30px;
+  left: -40px;
+  overflow: hidden;
+}
+.v14_22 {
+  width: 950px;
+  height: 950px;
+  background: url("images/v14_22.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 0.7;
+  position: absolute;
+  top: 105px;
+  left: 219px;
+  overflow: hidden;
+}
+.v2_40 {
+  width: 286px;
+  height: 369px;
+  background: rgba(82,79,157,1);
+  opacity: 1;
+  position: absolute;
+  top: 242px;
+  left: 63px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+  overflow: hidden;
+}
+.v20_47 {
+  width: 286px;
+  height: 369px;
+  background: rgba(82,79,157,1);
+  opacity: 1;
+  position: absolute;
+  top: 640px;
+  left: 63px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+  overflow: hidden;
+}
+.v20_46 {
+  width: 286px;
+  height: 369px;
+  background: rgba(82,79,157,1);
+  opacity: 1;
+  position: absolute;
+  top: 242px;
+  left: 1044px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+  overflow: hidden;
+}
+.v20_48 {
+  width: 286px;
+  height: 369px;
+  background: rgba(82,79,157,1);
+  opacity: 1;
+  position: absolute;
+  top: 640px;
+  left: 1044px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+  overflow: hidden;
+}
+.v2_41 {
+  width: 286px;
+  height: 369px;
+  background: rgba(82,79,157,1);
+  opacity: 1;
+  position: absolute;
+  top: 242px;
+  left: 390px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+  overflow: hidden;
+}
+.v20_49 {
+  width: 286px;
+  height: 369px;
+  background: rgba(82,79,157,1);
+  opacity: 1;
+  position: absolute;
+  top: 640px;
+  left: 390px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+  overflow: hidden;
+}
+.v2_42 {
+  width: 286px;
+  height: 369px;
+  background: rgba(82,79,157,1);
+  opacity: 1;
+  position: absolute;
+  top: 242px;
+  left: 717px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+  overflow: hidden;
+}
+.v20_50 {
+  width: 286px;
+  height: 369px;
+  background: rgba(82,79,157,1);
+  opacity: 1;
+  position: absolute;
+  top: 640px;
+  left: 717px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+  overflow: hidden;
+}
+.v18_35 {
+  width: 240px;
+  height: 104px;
+  background: url("images/v18_35.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 34px;
+  left: 1107px;
+  overflow: hidden;
+}
+.v20_51 {
+  width: 613px;
+  height: 89px;
+  background: rgba(127,150,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 94px;
+  left: 390px;
+  overflow: hidden;
+}
+.v20_53 {
+  width: 334px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 117px;
+  left: 528px;
+  font-family: Evolventa;
+  font-weight: Regular;
+  font-size: 32px;
+  opacity: 1;
+  text-align: left;
+}
+.v20_57 {
+  width: 334px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 117px;
+  left: 527px;
+  font-family: Evolventa;
+  font-weight: Regular;
+  font-size: 32px;
+  opacity: 1;
+  text-align: left;
+}
+.v20_56 {
+  width: 334px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 117px;
+  left: 529px;
+  font-family: Evolventa;
+  font-weight: Regular;
+  font-size: 32px;
+  opacity: 1;
+  text-align: left;
+}
